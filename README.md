@@ -1,6 +1,5 @@
 # apnishop.github.io
 
-#First Project of my Journey.
 -----------------------------website preview---------------------------------
 
 
